@@ -1,3 +1,4 @@
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=ayoubon1.ayoubon1&label=Visitors&countColor=%23263759&style=plastic&labelStyle=upper" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayoub+KHOUADRI;" />
 </h1>
@@ -43,12 +44,16 @@
 
 <hr/>
 
-## 📈 My Github status
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=ayoubon1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ayoubon1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ayoubon1&langs_count=20&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align="left">
-  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ayoubon1?cardType=github&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubon1&theme=radical" />
-</p>
+<br/><br/>
 <hr/>
 
 <h3 align="center">
