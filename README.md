@@ -5,7 +5,7 @@
 
 <div align="center">
   
-🔭 I’m currently a Full-Stack Engineer
+🔭 I’m currently a Research and development engineer
   
 🌱 I’m currently learning: Cybersecurity, DevOps, Kotlin and more...
   
